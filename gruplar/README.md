@@ -69,7 +69,7 @@ Keza bu liste sadece Türkiye’den çıkmış grupları içeriyor, yabancı kay
 | [Raven](raven.md)                       | ?     |     |     |     |     |     | x  |    | http://www.rdgnetwork.org/raven/ |
 | [Rayden](rayden.md)                      | 1996  | x   |     |     |     |     |    |    |     |
 | [Realtime](realtime.md)                    | ?     |     |     |     |     |     | x  |    |     |
-| [Resident](resident.md)                    | 1999     | x   | x   | x  | x  | x   | x  | x  | http://residentland.com/ |
+| [Resident](resident.md)                    | 1999     |     |     |    |    |     | x  | x  | http://residentland.com/ |
 | [Ret](ret.md)                         | 2009? |     |     | x   |     |     |    |    |     |
 | [Return](return.md)                      | 2010? | x   |     |     |     |     |    |    |     |
 | [Saints](saints.md)                      | ?     |     | x   |     |     |     |    |    |     |
